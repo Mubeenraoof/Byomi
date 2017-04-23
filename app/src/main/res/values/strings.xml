@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Byomi</string>
+    <string name="Byomi">Byomi</string>
+    <string name="Instructions">Instructions
+    1.Select one of the options for the correct biomimicry picture combination
+    2.You will get your score at the end of the game
+    3.Click Play
+    </string>
+    <string name="next">next</string>
+    <string name="Play">Play</string>
+</resources>
